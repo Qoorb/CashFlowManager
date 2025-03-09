@@ -129,3 +129,8 @@ POST /api/cashflows/
     "comment": "Зарплата"
 }
 ```
+
+## Интерфейс
+
+![изображение](https://github.com/user-attachments/assets/2c41b5ff-c738-4bef-8434-a66b8c2e7c91)
+
