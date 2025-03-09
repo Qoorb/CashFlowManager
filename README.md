@@ -21,7 +21,7 @@ Cash Flow Manager - это веб-приложение для учета дви�
 ## Структура проекта
 
 ```tree
-cash_flow_manager/
+money_flow/
 │
 ├── cash_flow/              # Основное приложение
 │   ├── migrations/         # Миграции базы данных
@@ -56,7 +56,7 @@ cash_flow_manager/
 ### Шаг 1: Клонирование репозитория
 
 ```bash
-git clone <url_репозитория>
+git clone git@github.com:Qoorb/CashFlowManager.git
 cd cash_flow_manager
 ```
 
