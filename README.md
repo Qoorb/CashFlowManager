@@ -57,7 +57,7 @@ money_flow/
 
 ```bash
 git clone git@github.com:Qoorb/CashFlowManager.git
-cd cash_flow_manager
+cd money_flow
 ```
 
 ### Шаг 2: Создание виртуального окружения и установка зависимостей
